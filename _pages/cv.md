@@ -11,30 +11,51 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E (Naval Architecture), Myanmar Maritime University, 2015
+* Erasmus Mundus Advanced Master in Advanced Ship Design and Offshore Structures, University of Liège, École Centrale de Nantes, University of Rostock, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019 - present: PhD candidate and research engineer
+  * University of Liège
+  * Duties included: Research, teaching, project proposal preparation
+  * Supervisor: Prof. Philippe Rigo
+  * Co-Supervisor: Prof. ‪Christof Devriendt (Vrije Universiteit Brussel)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* 2018: Research intern
+  * Det Norske Veritas (DNV)
+  * Duties: Validating and improving class rules 
+  * Supervisor: Dr. Joerg Peschmann
+
+* 2016 - 2017: Weather analyst
+  * Weathernews Inc.
+  * Duties: Weather forecasting, voyage planning and tracking, data encoding
+  * Head of Department: Mr. Yukiyasu Murata
+
+* 2015 - 2016: Teaching assistant
+  * Myanmar Maritime University
+  * Duties: Lecture planning, teaching, lab experiments
+  * Head of Department: Prof. Myint Myint Khine
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computer skills
+  * Matlab & Python
+  * OpenFast (NREL)
+  * ANSYS, SAMCEF (FEA)
+  * Maxsurf (Bentley) 
+
+* Languages
+  * Burmese (native)
+  * English (fluent)
+  * Spanish (basic)
+  
+Honors & Awards
+======
+ * Swiber scholarship award, Singapore (2014 – 2015)
+ * Erasmus master scholarship (2017 – 2019)
+ * EMShip best master thesis award (2019)
+ 
 
 Publications
 ======
@@ -54,6 +75,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
