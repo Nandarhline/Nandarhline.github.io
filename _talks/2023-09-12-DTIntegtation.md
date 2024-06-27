@@ -1,5 +1,5 @@
 ---
-title: "Presentation at EMI 2023"
+title: "Presentation at BERA (PhairywinD) PhD Day 2023"
 collection: talks
 type: "Poster presentation"
 permalink: /talks/2023-09-12-DTIntegtation
